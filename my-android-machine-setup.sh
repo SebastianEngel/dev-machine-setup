@@ -29,6 +29,7 @@ echo "Installing Java ..."
 brew cask install java
 
 brew cask install flux
+brew cask install google-chrome
 brew cask install google-drive
 brew cask install avira-antivirus
 brew cask install caffeine 
