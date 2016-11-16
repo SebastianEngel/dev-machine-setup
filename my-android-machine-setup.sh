@@ -38,6 +38,7 @@ brew cask install spotify
 brew cask install appcleaner
 brew cask install evernote
 brew cask install whatsapp
+brew cask install skype
 
 echo "Open Tasks:"
 echo "- set up your ssh keys for repository access, etc."
