@@ -28,6 +28,8 @@ brew cask install android-studio
 echo "Installing Java ..."
 brew cask install java
 
+# Install privately used apps
+echo "Installing privately used apps ..."
 brew cask install flux
 brew cask install google-chrome
 brew cask install google-drive
