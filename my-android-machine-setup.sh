@@ -28,6 +28,10 @@ brew cask install android-studio
 echo "Installing Java ..."
 brew cask install java
 
+# Install Zeplin
+echo "Installing Zeplin (http://www.zeplin.io) ..."
+brew cask install zeplin
+
 # Install privately used apps
 echo "Installing privately used apps ..."
 brew cask install flux
