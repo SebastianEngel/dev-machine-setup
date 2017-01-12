@@ -32,6 +32,10 @@ brew cask install java
 echo "Installing Zeplin (http://www.zeplin.io) ..."
 brew cask install zeplin
 
+# Install Android Tool
+echo "Installing Android Tool (https://github.com/mortenjust/androidtool-mac)"
+brew cask install androidtool
+
 # Install privately used apps
 echo "Installing privately used apps ..."
 brew cask install flux
