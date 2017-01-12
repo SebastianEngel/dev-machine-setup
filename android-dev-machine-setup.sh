@@ -31,6 +31,10 @@ brew cask install java
 # Install Zeplin
 echo "Installing Zeplin (http://www.zeplin.io) ..."
 brew cask install zeplin
+
+# Install Android Tool
+echo "Installing Android Tool (https://github.com/mortenjust/androidtool-mac)"
+brew cask install androidtool
  
 echo "Open Tasks:"
 echo "- set up your ssh keys for repository access, etc."
